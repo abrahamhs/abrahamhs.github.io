@@ -1,4 +1,4 @@
-# Ruta de ejemplos de habilidades adquiridas en practicas del curso de FreeCodeCamp
+# Practicas del curso de FreeCodeCamp
 
 
 - 👋 Hola, soy @abrahamhs.
