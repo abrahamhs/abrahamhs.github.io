@@ -1,4 +1,4 @@
-# Practicas del curso de FreeCodeCamp
+# Practicas de cursos de FreeCodeCamp
 
 
 - 👋 Hola, soy @abrahamhs.
