@@ -6,5 +6,5 @@ Ruta de ejemplos de habilidades adquiridas en practicas del curso de FreeCodeCam
 - 🌱 en esta seccion, veras el material que se van realizando a medida que va evolucionando el curso, algunos con comentarios. Si esta aquí porque quieres 
 aprender te invito a tomar su curso <a href="https://www.freecodecamp.org/">Aqui</a>
 
-<h3>#Cursos<h3>
-  <h4>(New) Responsive Web Design Certification<h4>
+<h3>Cursos<h3>
+  <h4><a href="https://abrahamhs.github.io/freecodecamp/responsive-web-desig/">(New) Responsive Web Design Certification</a><h4>
