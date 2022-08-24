@@ -1,5 +1,5 @@
-# Desafios de un Desarrollador Wep
-Ruta de ejemplos de habilidades adquiridas en practicas del curso de FreeCodeCamp
+# Ruta de ejemplos de habilidades adquiridas en practicas del curso de FreeCodeCamp
+
 
 - 👋 Hola, soy @abrahamhs.
 - 👀 Actualmente estoy interesado en el desarrollo web. Las habilidades que estoy adquiriendo en este curso son de HTML5 Y CSS
