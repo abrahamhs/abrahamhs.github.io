@@ -6,7 +6,7 @@
 - 🌱 En esta seccion, veras el material que se van realizando a medida que va evolucionando el curso, algunos con comentarios. Si estas aquí porque quieres 
 aprender te invito a tomar su curso [Aqui](https://www.freecodecamp.org).
 
-### Cursos
+### Cursos.
   ### (New) Responsive Web Design Certification.
   
    1. Learn HTML by Building a Cat Photo App: [Resultado](https://abrahamhs.github.io/freecodecamp/responsive-web-desig/building-cat-photo-app/)
