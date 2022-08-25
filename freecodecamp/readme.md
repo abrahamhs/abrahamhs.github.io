@@ -7,9 +7,9 @@
 aprender te invito a tomar su curso [Aqui](https://www.freecodecamp.org).
 
 ### Cursos
-  #### (New) Responsive Web Design Certification
+  #### (New) Responsive Web Design Certification.
   
-   1. Learn HTML by Building a Cat Photo App: [Resultado](https://abrahamhs.github.io/freecodecamp/responsive-web-desig//building-cat-photo-app/)
-   2. Learn Basic CSS by Building a Cafe Menu 
+   1. Learn HTML by Building a Cat Photo App: [Resultado](https://abrahamhs.github.io/freecodecamp/responsive-web-desig/building-cat-photo-app/)
+   2. Learn Basic CSS by Building a Cafe Men: [Resultado](https://abrahamhs.github.io/freecodecamp/responsive-web-desig/basic-css-by-building-a-cafe-menu/) 
    3. Learn CSS Colors by Building Set of Colored Markers
    4. Learn HTML Forms by Building a Registration Form: [Resultado](https://abrahamhs.github.io/freecodecamp/responsive-web-desig/building-a-registration-form).
