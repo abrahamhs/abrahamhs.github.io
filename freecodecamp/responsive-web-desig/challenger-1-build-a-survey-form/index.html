@@ -3,17 +3,53 @@
   <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="styles.css"/>
+    <link href='http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,800,700,900' rel='stylesheet' type='text/css'>
   </head>
   <body>
-    <h1 id="title">freeCodeCamp Survey Form</h1>
-    <p id="description">Thank you for taking the time to help us improve the platform</p>
-    <form id="survey-form" action="">
-      <fieldset>
-        <label id="name-label">Name<input id="name" type="text" name="name" placeholder="enter your name" required></label>
-        <label id="email-label">Email<input id="email" type="email" name="email" placeholder="enter your e-mail" required></label>
-        <label id="number-label" >Age<input id="number" type="number" name="number" min="13" max="120" placeholder="Age" required></label>
-        
-      </fieldset>
-    <form>  
+    <header>
+      <h1 id="title">Vpn Service Survey Form</h1>
+      <p id="description">Thank you for taking the time to help us improve the platform</p>
+    </header>
+    <main>
+      <form id="survey-form" action="">
+        <fieldset>
+          <label  id="name-label">Name<input class="user-data" id="name" type="text" name="name" placeholder="enter your name" required></label>
+          <label  id="email-label">Email<input class="user-data" id="email" type="email" name="email" placeholder="enter your e-mail" required></label>
+          <label  id="number-label" >Age<input class="user-data" id="number" type="number" name="number" min="13" max="120" placeholder="Age" required></label>
+        </fieldset>
+        <fieldset>
+          <div class="dropdown">
+            <label>How did you hear about us?
+              <select id="dropdown">
+                <option value="">(select one)</option>
+                <option value="1">Google</option>
+                <option value="2">Instagram</option>
+                <option value="3">Facebook</option>
+                <option value="4">Other</option>
+              </select>
+            </label>
+          </div>
+          <div class="user-referral">
+            <p>Would you recommend our vpn to a friend?</p>
+            <label><input type="radio" name="attribute" class="user-recommend" value="definitely"> Definitely</label>
+            <label><input type="radio" name="attribute" class="user-recommend" value="maybe"> Maybe</label>
+            <label><input type="radio" name="attribute" class="user-recommend" value="not-sure"> Not sure</label>
+          </div>
+          <div>
+            <p>What kind of service would you recommend from our platform</p>
+            <label><input type="checkbox" name="type-recommend"  value="attribute" class="user-recommend"> private-vpn</label>
+            <label><input type="checkbox" name="type-recommend"  value="attribute" class="user-recommend"> public-vpn</label>
+            <label><input type="checkbox" name="type-recommend"  value="attribute" class="user-recommend"> public vpn by country</label>
+          </div>
+          <div class="description">
+            <label>Please give us a description of your choice
+              <textarea class="text-description" name="" id="" cols="30" rows="5" placeholder="I like this option by ..."></textarea>
+            </label>
+          </div>
+        </fieldset>
+        <input type="submit" value="Submit" id="submit"/>
+      <form>
+    </main>
+      
   </body>  
 </html>
