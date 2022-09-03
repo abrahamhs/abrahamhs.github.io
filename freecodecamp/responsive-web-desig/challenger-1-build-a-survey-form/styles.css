@@ -2,11 +2,18 @@ body {
     width: 100%;
     height: 100vh;
     margin: 0;
-    background-color: white;
     color: #2EA3F2;
     font-family: Raleway;
     font-size: 16px;
-    background-image: ;
+    background-image: url('https://www.microlinkvpn.com/wp-content/uploads/2021/08/cities-2066543_1920.jpg');
+    background-size: cover;
+}
+    
+  header{
+    width: 60vw;
+    max-width: 500px;
+    min-width: 300px;
+    margin: 0 auto;
   }
   header h1, header p {
     margin: 1em auto;
@@ -21,7 +28,8 @@ body {
     border: 1px solid #2ea3f2;
     padding: 0 1rem;
     border-radius: 10px;
-    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.5);
+    background-color: rgba(255, 255, 255, 0.852);
     
   }
   label {
